@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+}
+
+button:focus, input:focus, textarea:focus {
+	outline: 0;
+}
+
+body {
+  background: #ffffff;
+}
+
+.datepicker_wrapper {
+	padding: 100px 0;
+}
+
+.datepicker_wrapper .datepicker_wrap {
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.datepicker_wrapper .datepicker_wrap .head_text {
+	font-size: 60px;
+	font-weight: 700;
+	color: #000000;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item {
+	max-width: 482px;
+	width: 100%;
+	margin: 0 auto;
+	background: #09041E;
+	border-radius: 10px;
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item #calender {
+	width: 100%;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker-inline {
+	width: 100%;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker table {
+	margin: 0 auto;
+	width: 100%;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 58px;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker-switch {
+	color: #ffffff;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker th {
+	color: red;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker td,
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker th {
+	text-align: center;
+	width: 14.2857%;
+	border: none;
+	height: 61px;
+	border-radius: 0 !important;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker td {
+	color: #ffffff;
+	border: 1px solid #ffffff;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker tr.td.day.focused,
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker tr.td.day:hover {
+	background: red !important;
+	color: #ffffff !important;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker .prev,
+.datepicker_wrapper .datepicker_wrap .datepicker_item .datepicker .next {
+	font-size: 30px;
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item {
+
+}
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item 
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item 
+
+.datepicker_wrapper .datepicker_wrap .datepicker_item 
